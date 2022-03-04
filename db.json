@@ -1,0 +1,28 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "email": "prasannapinnam999@gmail.com",
+        "password": "pras@1304",
+        "name": "lakshmiPrasanna"
+      },
+      {
+        "id": "2",
+        "email": "pjrradvocate@gmail.com",
+        "password": "pjrr@06",
+        "name": "pjrr"
+      },
+      {
+        "id": "3",
+        "email": "pinnamvijayalakshmi@gmail.com",
+        "password": "pvjl@13",
+        "name": "vijayalakshmi"
+      },
+      {
+        "id": "4",
+        "email": "rama@gmail.com",
+        "password": "harerama",
+        "name": "vasudeva"
+      }
+    ]
+  }

@@ -18,7 +18,6 @@ import AccessDenied from './components/AccessDenied';
 import MyProfile from './components/myProfile';
 
 import './App.css';
-import { login } from './services/userService';
 
 
 const LazyMovies = React.lazy(()=>import('./components/Movies'));
