@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/namah_app/static/css/main.91daf752.css",
-    "main.js": "/namah_app/static/js/main.e6413949.js",
+    "main.js": "/namah_app/static/js/main.a0d9d883.js",
     "static/js/787.fb653473.chunk.js": "/namah_app/static/js/787.fb653473.chunk.js",
     "static/media/reels.jpg": "/namah_app/static/media/reels.363699b3755679fd6f81.jpg",
     "index.html": "/namah_app/index.html",
     "main.91daf752.css.map": "/namah_app/static/css/main.91daf752.css.map",
-    "main.e6413949.js.map": "/namah_app/static/js/main.e6413949.js.map",
+    "main.a0d9d883.js.map": "/namah_app/static/js/main.a0d9d883.js.map",
     "787.fb653473.chunk.js.map": "/namah_app/static/js/787.fb653473.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91daf752.css",
-    "static/js/main.e6413949.js"
+    "static/js/main.a0d9d883.js"
   ]
 }
